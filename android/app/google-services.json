@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758633466527",
+    "project_id": "thermal-paper-reader",
+    "storage_bucket": "thermal-paper-reader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758633466527:android:2a01e509f3693b34d230aa",
+        "android_client_info": {
+          "package_name": "com.example.thermal_paper_reader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqwlREeOA84w8Kq0_N_lIGrGBMiNjYsyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
